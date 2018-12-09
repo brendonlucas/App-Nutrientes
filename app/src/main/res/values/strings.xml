@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Nutrientes</string>
+    <string name="detalhes">detalhes</string>
+    <string name="nome">Nome</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="Dados">Dados</string>
+    <string name="tmb">TMB</string>
+    <string name="necessidades_caloricas">Necessidades Calóricas</string>
+    <string name="seu_nome">nome</string>
+    <string name="text_altura">Altura</string>
+    <string name="informe_seus_dados">INFORME SEUS DADOS</string>
+    <string name="digite_sua_altura">Digite sua altura</string>
+    <string name="digite_seu_peso">Digite seu peso</string>
+    <string name="texto_peso">Peso</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="detalhes_nome">nome</string>
+    <string name="suas_nescessidades_caloricas_s_o">Suas nescessidades Caloricas são:</string>
+    <string name="proteina">Proteina</string>
+    <string name="carboidrato">Carboidrato</string>
+    <string name="calorias">Calorias</string>
+    <string name="gramas">Gramas</string>
+    <string name="gordura">Gordura</string>
+
+    <string name="get_3100_kcal">Get = 3100 kcal</string>
+    <string name="txt_altura">Altura</string>
+    <string name="texto_altura">Altura</string>
+    <string name="texto_do_peso">Peso</string>
+    <string name="gasto_energ_tico_total">Gasto energético total</string>
+    <string name="todo">TODO</string>
+    <string name="_500g">500g</string>
+    <string name="_300g">300g</string>
+    <string name="proteinas">Proteinas</string>
+    <string name="carboidratos">Carboidratos</string>
+    <string name="gorduras">Gorduras</string>
+    <string name="_500_cal">500 cal</string>
+    <string name="_700_cal">700 cal</string>
+    <string name="_800_cal">800 cal</string>
+    <string name="_200g">200g</string>
+    <string name="Gramas">Gramas</string>
+    <string name="Calorias">Calorias</string>
+    <string name="macronutrientes">Macronutrientes</string>
+
+    <string-array name="estilo_vida">
+        <item>Selecione um estilo de vida:</item>
+        <item>Sedentário</item>
+        <item>Levemente ativo</item>
+        <item>Moderadamente ativo</item>
+        <item>Muito ativo</item>
+
+    </string-array>
+
+
+</resources>
